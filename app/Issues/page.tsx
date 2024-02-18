@@ -5,7 +5,7 @@ const IssuesPage = () => {
   return (
     <div>
       <Button>
-        <Link href="/Issues/new">New Issues</Link>
+        <Link href="/issues/new">New Issues</Link>
       </Button>
     </div>
   );
